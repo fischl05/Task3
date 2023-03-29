@@ -1,0 +1,4 @@
+../Core/Src/SK6812.c:64:6:led_color	12	static
+../Core/Src/SK6812.c:71:6:led_update	16	static
+../Core/Src/SK6812.c:84:6:led_clear	8	static
+../Core/Src/SK6812.c:90:9:led_cmp	20	static
